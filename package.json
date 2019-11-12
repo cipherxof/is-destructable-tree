@@ -1,0 +1,17 @@
+{
+  "name": "is-destructable-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "dependencies": {
+    "w3ts": "^1.0.1",
+    "war3-library-loader": "^1.0.0",
+    "war3-types": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

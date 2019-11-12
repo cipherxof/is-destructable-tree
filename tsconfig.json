@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "target": "es6",
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "alwaysStrict": true,
+    "strictNullChecks": true,
+    "moduleResolution": "node",
+    "baseUrl": "src",
+    "declaration": true,
+    "types": [
+      "war3-types/core/compat",
+      "war3-types/core/common",
+      "war3-types/core/blizzard",
+      "war3-types/core/commonai",
+      "war3-types/core/polyfill",
+      "war3-types/special/ceres"
+    ]
+  },
+  "include": [
+    "src/*"
+  ]
+}
